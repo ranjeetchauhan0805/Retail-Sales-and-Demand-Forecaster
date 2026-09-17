@@ -1,4 +1,3 @@
-:::writing{variant="document" id="95163" title="README.md"}
 # Retail Sales & Demand Forecaster
 
 A machine learning project that analyzes retail transaction data and predicts product quantity using regression models.
