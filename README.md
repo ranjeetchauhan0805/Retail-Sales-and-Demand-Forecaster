@@ -90,8 +90,7 @@ This highlights an important machine learning lesson: increasing model complexit
 Sale and demand forecaster/
 │
 ├── data/
-│   └── raw/
-│       └── Sales Dataset.csv
+│    └── Sales Dataset.csv
 │
 ├── model/
 │   └── gradient_boosting_model.pkl
